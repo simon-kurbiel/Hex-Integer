@@ -36,5 +36,7 @@ int main(int argc, char **argv)
 		str+=1;
 	}
 	printf("The Number is : %ld\n",answer);
+	
+	
 	return 0;
 }
